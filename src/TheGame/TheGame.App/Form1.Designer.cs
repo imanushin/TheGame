@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApplication6
+﻿namespace TheGame.App
 {
     partial class Form1
     {
